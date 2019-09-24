@@ -17,10 +17,7 @@ public class Test3 {
 		
 		
 		d = Math.random()*10;
-		System.out.println((int)(d));
-		
-		
-		
+		System.out.println((int)(d)); // 0~9 랜덤하게~
 	}
 
 }
